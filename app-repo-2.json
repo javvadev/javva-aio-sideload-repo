@@ -1,0 +1,28 @@
+{
+  "name": "Javva AIO Source!",
+  "identifier": "com.one.mg",
+  "iconURL": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png",
+  "patreonURL": "",
+  "subtitle": "The official Javva IPA Repository!",
+  "description": "tbd",
+  "tintColor": "f8981d",
+  "featuredApps": [
+  ],
+  
+  "apps": [
+    {
+      "name": "example starter app",
+      "bundleIdentifier": "com.balls.banana",
+      "subtitle": "nothing here",
+      "developerName": "Javva",
+      "iconURL": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png",
+      "version": "1.0.0",
+      "size": 1,
+      "downloadURL": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png",
+      "localizedDescription": "just an example for later",
+      "versionDate": "2025-11-08",
+      "beta": true
+    }
+  ],
+  "news": []
+}
