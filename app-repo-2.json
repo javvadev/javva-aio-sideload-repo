@@ -2,7 +2,7 @@
   "name": "Javva AIO Source!",
   "identifier": "com.one.mg",
   "iconURL": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png",
-  "patreonURL": "",
+  "patreonURL": "https://example.com",
   "subtitle": "The official Javva IPA Repository!",
   "description": "tbd",
   "tintColor": "f8981d",
@@ -25,4 +25,5 @@
     }
   ],
   "news": []
+
 }
